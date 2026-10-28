@@ -1,0 +1,372 @@
+[
+  {
+    "timestamp": "2026-06-25T11:19:59.416542",
+    "model": "RF-DETR",
+    "image_name": "Fahraz Firdaus_2026-06-08T14-07-55-881Z.jpg",
+    "inference_time_ms": 6311.59,
+    "inference_time_sec": 6.3116,
+    "fps": 0.16,
+    "detection_count": 1,
+    "image_size_kb": 39.79
+  },
+  {
+    "timestamp": "2026-06-25T11:21:03.479645",
+    "model": "RF-DETR",
+    "image_name": "Isabel N_2026-06-11T15-26-47-670Z.jpg",
+    "inference_time_ms": 316.61,
+    "inference_time_sec": 0.3166,
+    "fps": 3.16,
+    "detection_count": 1,
+    "image_size_kb": 39.5
+  },
+  {
+    "timestamp": "2026-06-25T11:23:21.475680",
+    "model": "RF-DETR",
+    "image_name": "Yusuf Fachry_2026-06-15T09-20-49-851Z.jpg",
+    "inference_time_ms": 323.96,
+    "inference_time_sec": 0.324,
+    "fps": 3.09,
+    "detection_count": 2,
+    "image_size_kb": 42.22
+  },
+  {
+    "timestamp": "2026-06-25T11:24:40.627280",
+    "model": "RF-DETR",
+    "image_name": "lubi dabi_2026-06-09T14-50-29-024Z.jpg",
+    "inference_time_ms": 335.96,
+    "inference_time_sec": 0.336,
+    "fps": 2.98,
+    "detection_count": 1,
+    "image_size_kb": 39.42
+  },
+  {
+    "timestamp": "2026-06-25T11:26:40.395363",
+    "model": "RF-DETR",
+    "image_name": "Fahraz Firdaus_2026-06-08T14-33-15-801Z.jpg",
+    "inference_time_ms": 308.54,
+    "inference_time_sec": 0.3085,
+    "fps": 3.24,
+    "detection_count": 1,
+    "image_size_kb": 38.7
+  },
+  {
+    "timestamp": "2026-06-25T11:28:32.826098",
+    "model": "RF-DETR",
+    "image_name": "Yusuf Fachry_2026-06-15T09-20-21-869Z.jpg",
+    "inference_time_ms": 347.2,
+    "inference_time_sec": 0.3472,
+    "fps": 2.88,
+    "detection_count": 1,
+    "image_size_kb": 42.26
+  },
+  {
+    "timestamp": "2026-06-25T11:29:35.123509",
+    "model": "RF-DETR",
+    "image_name": "Fahraz Firdaus_2026-06-08T14-08-51-925Z.jpg",
+    "inference_time_ms": 418.73,
+    "inference_time_sec": 0.4187,
+    "fps": 2.39,
+    "detection_count": 1,
+    "image_size_kb": 40.48
+  },
+  {
+    "timestamp": "2026-06-25T11:30:16.361764",
+    "model": "RF-DETR",
+    "image_name": "Syakila Andrayani_2026-06-19T15-47-09-045Z.jpg",
+    "inference_time_ms": 281.55,
+    "inference_time_sec": 0.2815,
+    "fps": 3.55,
+    "detection_count": 1,
+    "image_size_kb": 39.57
+  },
+  {
+    "timestamp": "2026-06-25T11:31:16.586091",
+    "model": "RF-DETR",
+    "image_name": "Fahraz Firdaus_2026-06-08T14-09-33-814Z.jpg",
+    "inference_time_ms": 371.3,
+    "inference_time_sec": 0.3713,
+    "fps": 2.69,
+    "detection_count": 1,
+    "image_size_kb": 40.01
+  },
+  {
+    "timestamp": "2026-06-25T11:32:11.667236",
+    "model": "RF-DETR",
+    "image_name": "Syakila Andrayani_2026-06-19T15-48-29-434Z.jpg",
+    "inference_time_ms": 321.12,
+    "inference_time_sec": 0.3211,
+    "fps": 3.11,
+    "detection_count": 1,
+    "image_size_kb": 39.5
+  },
+  {
+    "timestamp": "2026-06-25T11:53:36.948840",
+    "model": "RF-DETR",
+    "image_name": "Fahraz Firdaus_2026-06-08T14-35-29-546Z.jpg",
+    "inference_time_ms": 830.07,
+    "inference_time_sec": 0.8301,
+    "fps": 1.2,
+    "detection_count": 1,
+    "image_size_kb": 40.62
+  },
+  {
+    "timestamp": "2026-06-25T11:54:15.476121",
+    "model": "RF-DETR",
+    "image_name": "Fahraz Firdaus_2026-06-08T14-35-19-068Z.jpg",
+    "inference_time_ms": 275.4,
+    "inference_time_sec": 0.2754,
+    "fps": 3.63,
+    "detection_count": 1,
+    "image_size_kb": 37.85
+  },
+  {
+    "timestamp": "2026-06-25T11:55:09.572129",
+    "model": "RF-DETR",
+    "image_name": "Fahraz Firdaus_2026-06-08T14-34-04-162Z.jpg",
+    "inference_time_ms": 272.34,
+    "inference_time_sec": 0.2723,
+    "fps": 3.67,
+    "detection_count": 1,
+    "image_size_kb": 38.09
+  },
+  {
+    "timestamp": "2026-06-25T11:55:49.582782",
+    "model": "RF-DETR",
+    "image_name": "Fahraz Firdaus_2026-06-08T14-33-51-481Z.jpg",
+    "inference_time_ms": 277.38,
+    "inference_time_sec": 0.2774,
+    "fps": 3.61,
+    "detection_count": 1,
+    "image_size_kb": 37.04
+  },
+  {
+    "timestamp": "2026-06-25T11:56:34.603009",
+    "model": "RF-DETR",
+    "image_name": "Fahraz Firdaus_2026-06-08T14-33-05-993Z.jpg",
+    "inference_time_ms": 283.73,
+    "inference_time_sec": 0.2837,
+    "fps": 3.52,
+    "detection_count": 1,
+    "image_size_kb": 39.72
+  },
+  {
+    "timestamp": "2026-06-25T11:57:00.461654",
+    "model": "RF-DETR",
+    "image_name": "Fahraz Firdaus_2026-06-08T14-32-55-273Z.jpg",
+    "inference_time_ms": 330.68,
+    "inference_time_sec": 0.3307,
+    "fps": 3.02,
+    "detection_count": 1,
+    "image_size_kb": 35.37
+  },
+  {
+    "timestamp": "2026-06-25T11:57:40.084955",
+    "model": "RF-DETR",
+    "image_name": "Fahraz Firdaus_2026-06-08T14-15-42-778Z.jpg",
+    "inference_time_ms": 316.19,
+    "inference_time_sec": 0.3162,
+    "fps": 3.16,
+    "detection_count": 0,
+    "image_size_kb": 40.46
+  },
+  {
+    "timestamp": "2026-06-25T11:57:52.300841",
+    "model": "RF-DETR",
+    "image_name": "Fahraz Firdaus_2026-06-08T14-14-19-560Z.jpg",
+    "inference_time_ms": 300.56,
+    "inference_time_sec": 0.3006,
+    "fps": 3.33,
+    "detection_count": 0,
+    "image_size_kb": 38.33
+  },
+  {
+    "timestamp": "2026-06-25T11:58:03.108998",
+    "model": "RF-DETR",
+    "image_name": "Fahraz Firdaus_2026-06-08T14-11-27-055Z.jpg",
+    "inference_time_ms": 254.45,
+    "inference_time_sec": 0.2545,
+    "fps": 3.93,
+    "detection_count": 0,
+    "image_size_kb": 36.0
+  },
+  {
+    "timestamp": "2026-06-25T11:59:27.327434",
+    "model": "RF-DETR",
+    "image_name": "Fahraz Firdaus_2026-06-08T14-11-04-200Z.jpg",
+    "inference_time_ms": 310.32,
+    "inference_time_sec": 0.3103,
+    "fps": 3.22,
+    "detection_count": 0,
+    "image_size_kb": 37.13
+  },
+  {
+    "timestamp": "2026-07-07T14:53:34.480837",
+    "model": "RF-DETR",
+    "image_name": "sarah almyra_2026-07-07T13-33-34-058Z.jpg",
+    "inference_time_ms": 6016.01,
+    "inference_time_sec": 6.016,
+    "fps": 0.17,
+    "detection_count": 3,
+    "image_size_kb": 44.18
+  },
+  {
+    "timestamp": "2026-07-20T21:33:38.724859",
+    "model": "RF-DETR",
+    "image_name": "bottle.jpg",
+    "inference_time_ms": 9367.04,
+    "inference_time_sec": 9.367,
+    "fps": 0.11,
+    "detection_count": 1,
+    "image_size_kb": 30.29
+  },
+  {
+    "timestamp": "2026-07-20T21:34:08.704297",
+    "model": "RF-DETR",
+    "image_name": "bottle.jpg",
+    "inference_time_ms": 2326.35,
+    "inference_time_sec": 2.3263,
+    "fps": 0.43,
+    "detection_count": 2,
+    "image_size_kb": 33.21
+  },
+  {
+    "timestamp": "2026-07-20T21:34:31.023157",
+    "model": "RF-DETR",
+    "image_name": "bottle.jpg",
+    "inference_time_ms": 2125.27,
+    "inference_time_sec": 2.1253,
+    "fps": 0.47,
+    "detection_count": 0,
+    "image_size_kb": 22.71
+  },
+  {
+    "timestamp": "2026-07-20T22:04:29.362017",
+    "model": "RF-DETR",
+    "image_name": "bottle.jpg",
+    "inference_time_ms": 7129.39,
+    "inference_time_sec": 7.1294,
+    "fps": 0.14,
+    "detection_count": 1,
+    "image_size_kb": 27.86
+  },
+  {
+    "timestamp": "2026-07-22T06:43:48.283398",
+    "model": "RF-DETR",
+    "image_name": "bottle.jpg",
+    "inference_time_ms": 4751.71,
+    "inference_time_sec": 4.7517,
+    "fps": 0.21,
+    "detection_count": 2,
+    "image_size_kb": 19.81
+  },
+  {
+    "timestamp": "2026-07-22T06:44:03.845937",
+    "model": "RF-DETR",
+    "image_name": "bottle.jpg",
+    "inference_time_ms": 416.95,
+    "inference_time_sec": 0.4169,
+    "fps": 2.4,
+    "detection_count": 2,
+    "image_size_kb": 19.52
+  },
+  {
+    "timestamp": "2026-07-22T06:44:10.749485",
+    "model": "RF-DETR",
+    "image_name": "bottle.jpg",
+    "inference_time_ms": 419.23,
+    "inference_time_sec": 0.4192,
+    "fps": 2.39,
+    "detection_count": 0,
+    "image_size_kb": 15.14
+  },
+  {
+    "timestamp": "2026-07-22T06:44:22.452817",
+    "model": "RF-DETR",
+    "image_name": "bottle.jpg",
+    "inference_time_ms": 429.31,
+    "inference_time_sec": 0.4293,
+    "fps": 2.33,
+    "detection_count": 1,
+    "image_size_kb": 16.83
+  },
+  {
+    "timestamp": "2026-07-22T06:44:37.409381",
+    "model": "RF-DETR",
+    "image_name": "bottle.jpg",
+    "inference_time_ms": 432.71,
+    "inference_time_sec": 0.4327,
+    "fps": 2.31,
+    "detection_count": 1,
+    "image_size_kb": 20.54
+  },
+  {
+    "timestamp": "2026-07-22T06:45:08.716808",
+    "model": "RF-DETR",
+    "image_name": "bottle.jpg",
+    "inference_time_ms": 444.59,
+    "inference_time_sec": 0.4446,
+    "fps": 2.25,
+    "detection_count": 0,
+    "image_size_kb": 14.72
+  },
+  {
+    "timestamp": "2026-07-22T06:45:22.498291",
+    "model": "RF-DETR",
+    "image_name": "bottle.jpg",
+    "inference_time_ms": 478.45,
+    "inference_time_sec": 0.4784,
+    "fps": 2.09,
+    "detection_count": 1,
+    "image_size_kb": 20.51
+  },
+  {
+    "timestamp": "2026-07-22T06:46:00.304917",
+    "model": "RF-DETR",
+    "image_name": "bottle.jpg",
+    "inference_time_ms": 421.71,
+    "inference_time_sec": 0.4217,
+    "fps": 2.37,
+    "detection_count": 2,
+    "image_size_kb": 19.61
+  },
+  {
+    "timestamp": "2026-07-22T06:46:23.108462",
+    "model": "RF-DETR",
+    "image_name": "bottle.jpg",
+    "inference_time_ms": 477.75,
+    "inference_time_sec": 0.4777,
+    "fps": 2.09,
+    "detection_count": 0,
+    "image_size_kb": 14.9
+  },
+  {
+    "timestamp": "2026-07-22T06:46:29.479195",
+    "model": "RF-DETR",
+    "image_name": "bottle.jpg",
+    "inference_time_ms": 434.63,
+    "inference_time_sec": 0.4346,
+    "fps": 2.3,
+    "detection_count": 1,
+    "image_size_kb": 16.16
+  },
+  {
+    "timestamp": "2026-07-22T06:46:41.420784",
+    "model": "RF-DETR",
+    "image_name": "bottle.jpg",
+    "inference_time_ms": 396.97,
+    "inference_time_sec": 0.397,
+    "fps": 2.52,
+    "detection_count": 1,
+    "image_size_kb": 18.26
+  },
+  {
+    "timestamp": "2026-08-09T06:24:56.969402",
+    "model": "RF-DETR",
+    "image_name": "sur sur_2026-07-27T12-51-23-303Z.jpg",
+    "inference_time_ms": 5974.46,
+    "inference_time_sec": 5.9745,
+    "fps": 0.17,
+    "detection_count": 1,
+    "image_size_kb": 36.3
+  }
+]
