@@ -1,0 +1,286 @@
+{
+  "model_used": "RF-DETR Nano",
+  "category": "target",
+  "class_name": "BotolPlastik",
+  "samples": [
+    {
+      "sample_id": 1,
+      "predictions": [
+        {
+          "width": 336.5225372314453,
+          "height": 161.3337860107422,
+          "x": 329.2317123413086,
+          "y": 299.2669448852539,
+          "confidence": 0.9596994519233704,
+          "class_id": 1,
+          "class": "BotolPlastik",
+          "size": "330ml",
+          "area": 54292.45500949002,
+          "detection_id": "fdd16094-78eb-4a2e-9466-dc536065ffb0",
+          "parent_id": "image"
+        }
+      ],
+      "metrics": {
+        "inference_time_ms": 4175.06,
+        "inference_time_sec": 4.1751,
+        "fps": 0.24,
+        "detection_count": 1
+      }
+    },
+    {
+      "sample_id": 2,
+      "predictions": [
+        {
+          "width": 415.6117706298828,
+          "height": 118.7061767578125,
+          "x": 338.47530364990234,
+          "y": 308.044189453125,
+          "confidence": 0.9616748690605164,
+          "class_id": 1,
+          "class": "BotolPlastik",
+          "size": "330ml",
+          "area": 49335.684307018295,
+          "detection_id": "50ef3cad-a183-457c-8f3e-3378bf023ef9",
+          "parent_id": "image"
+        }
+      ],
+      "metrics": {
+        "inference_time_ms": 224.18,
+        "inference_time_sec": 0.2242,
+        "fps": 4.46,
+        "detection_count": 1
+      }
+    },
+    {
+      "sample_id": 3,
+      "predictions": [
+        {
+          "width": 399.9009704589844,
+          "height": 146.85946655273438,
+          "x": 440.5796661376953,
+          "y": 288.87757873535156,
+          "confidence": 0.9557328820228577,
+          "class_id": 1,
+          "class": "BotolPlastik",
+          "size": "330ml",
+          "area": 58729.24319552723,
+          "detection_id": "793fa0f7-f01e-4218-844b-bc9f9b1bb098",
+          "parent_id": "image"
+        },
+        {
+          "width": 406.31237030029297,
+          "height": 174.68441009521484,
+          "x": 223.11487197875977,
+          "y": 199.04951858520508,
+          "confidence": 0.9506900906562805,
+          "class_id": 1,
+          "class": "BotolPlastik",
+          "size": "600ml",
+          "area": 70976.43672029517,
+          "detection_id": "9a4f709c-8763-4bdd-aa54-2d054ee39457",
+          "parent_id": "image"
+        }
+      ],
+      "metrics": {
+        "inference_time_ms": 7303.22,
+        "inference_time_sec": 7.3032,
+        "fps": 0.14,
+        "detection_count": 2
+      }
+    },
+    {
+      "sample_id": 4,
+      "predictions": [
+        {
+          "width": 520.0365219116211,
+          "height": 172.20394897460938,
+          "x": 345.1000862121582,
+          "y": 311.2524871826172,
+          "confidence": 0.9690278768539429,
+          "class_id": 1,
+          "class": "BotolPlastik",
+          "size": "600ml",
+          "area": 89552.34268420213,
+          "detection_id": "d5b601b1-22ed-4bf5-a3b3-b42af098968f",
+          "parent_id": "image"
+        }
+      ],
+      "metrics": {
+        "inference_time_ms": 299.42,
+        "inference_time_sec": 0.2994,
+        "fps": 3.34,
+        "detection_count": 1
+      }
+    },
+    {
+      "sample_id": 5,
+      "predictions": [
+        {
+          "width": 475.81065368652344,
+          "height": 135.2152557373047,
+          "x": 326.5376663208008,
+          "y": 306.8531265258789,
+          "confidence": 0.9607017040252686,
+          "class_id": 1,
+          "class": "BotolPlastik",
+          "size": "600ml",
+          "area": 64336.85922075738,
+          "detection_id": "f61dae34-5211-469d-8672-79fefa391fae",
+          "parent_id": "image"
+        }
+      ],
+      "metrics": {
+        "inference_time_ms": 272.68,
+        "inference_time_sec": 0.2727,
+        "fps": 3.67,
+        "detection_count": 1
+      }
+    },
+    {
+      "sample_id": 6,
+      "predictions": [
+        {
+          "width": 479.64051818847656,
+          "height": 148.69227600097656,
+          "x": 393.76219940185547,
+          "y": 316.22728729248047,
+          "confidence": 0.9681098461151123,
+          "class_id": 1,
+          "class": "BotolPlastik",
+          "size": "600ml",
+          "area": 71318.84031173238,
+          "detection_id": "fd7fef19-e1e6-431a-8ef3-63fbe51340da",
+          "parent_id": "image"
+        }
+      ],
+      "metrics": {
+        "inference_time_ms": 244.54,
+        "inference_time_sec": 0.2445,
+        "fps": 4.09,
+        "detection_count": 1
+      }
+    },
+    {
+      "sample_id": 7,
+      "predictions": [
+        {
+          "width": 380.43450927734375,
+          "height": 153.6282958984375,
+          "x": 375.5790710449219,
+          "y": 294.3486022949219,
+          "confidence": 0.9576343894004822,
+          "class_id": 1,
+          "class": "BotolPlastik",
+          "size": "330ml",
+          "area": 58445.50536123663,
+          "detection_id": "14d3cd96-976e-49ce-a474-865339dd3991",
+          "parent_id": "image"
+        }
+      ],
+      "metrics": {
+        "inference_time_ms": 298.11,
+        "inference_time_sec": 0.2981,
+        "fps": 3.35,
+        "detection_count": 1
+      }
+    },
+    {
+      "sample_id": 8,
+      "predictions": [
+        {
+          "width": 491.30519104003906,
+          "height": 149.90399169921875,
+          "x": 345.60802459716797,
+          "y": 325.57489013671875,
+          "confidence": 0.9676095843315125,
+          "class_id": 1,
+          "class": "BotolPlastik",
+          "size": "600ml",
+          "area": 73648.6092794491,
+          "detection_id": "7cb889f9-095e-4125-ae32-24902f382840",
+          "parent_id": "image"
+        }
+      ],
+      "metrics": {
+        "inference_time_ms": 299.39,
+        "inference_time_sec": 0.2994,
+        "fps": 3.34,
+        "detection_count": 1
+      }
+    },
+    {
+      "sample_id": 9,
+      "predictions": [
+        {
+          "width": 418.1156463623047,
+          "height": 130.824951171875,
+          "x": 318.0661392211914,
+          "y": 318.62548828125,
+          "confidence": 0.9650200009346008,
+          "class_id": 1,
+          "class": "BotolPlastik",
+          "size": "330ml",
+          "area": 54699.959019545466,
+          "detection_id": "6bb27bcc-93c3-4a6d-a0ea-ceacbf0a6a51",
+          "parent_id": "image"
+        }
+      ],
+      "metrics": {
+        "inference_time_ms": 237.19,
+        "inference_time_sec": 0.2372,
+        "fps": 4.22,
+        "detection_count": 1
+      }
+    },
+    {
+      "sample_id": 10,
+      "predictions": [
+        {
+          "width": 481.7939682006836,
+          "height": 151.6822738647461,
+          "x": 273.1171760559082,
+          "y": 166.03821182250977,
+          "confidence": 0.9480260014533997,
+          "class_id": 1,
+          "class": "BotolPlastik",
+          "size": "600ml",
+          "area": 73079.60463099886,
+          "detection_id": "4f0b46d6-bca9-4fd1-9bbe-eaeb6d3f72f1",
+          "parent_id": "image"
+        },
+        {
+          "width": 625.4532356262207,
+          "height": 154.32135009765625,
+          "x": 313.19305992126465,
+          "y": 387.02191162109375,
+          "confidence": 0.8428207039833069,
+          "class_id": 1,
+          "class": "BotolPlastik",
+          "size": "600ml",
+          "area": 96520.78774478589,
+          "detection_id": "059e64af-f2ff-4b47-b5c7-64b599d75ab5",
+          "parent_id": "image"
+        },
+        {
+          "width": 524.5003318786621,
+          "height": 115.21040344238281,
+          "x": 281.6948413848877,
+          "y": 280.26244354248047,
+          "confidence": 0.7741405367851257,
+          "class_id": 1,
+          "class": "BotolPlastik",
+          "size": "600ml",
+          "area": 60427.89484140434,
+          "detection_id": "d6174ca5-b9fe-4cf7-b6a7-b1a1dad9e5d4",
+          "parent_id": "image"
+        }
+      ],
+      "metrics": {
+        "inference_time_ms": 782.01,
+        "inference_time_sec": 0.782,
+        "fps": 1.28,
+        "detection_count": 3
+      }
+    }
+  ]
+}
